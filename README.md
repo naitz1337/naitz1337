@@ -1,16 +1,29 @@
-### Hi there 👋
+```java
+public class Naitz {
+	class Bio {
+		public String name;
+		public String skill;
+		public String location;
 
-<!--
-**naitz1337/naitz1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+		public void setBio() {
+			this.name = "Naitz";
+			this.skill = "Backend Developer";
+			this.location = "Istanbul, TR";
+		}
+	}
 
-Here are some ideas to get you started:
+	class Skills {
+		public String[] programming_languages;
+		public String[] languages;
+		public String location;
+		public String[] learning;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+		public void setSkills() {
+			this.programming_languages = new String[] { "Java", "C#" };
+			this.languages = new String[] { "Turkish", "English" };
+			this.location = "Istanbul, TR";
+			this.learning = new String[] { "Python", "JavaScript" };
+		}
+	}
+}
+```
