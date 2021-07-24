@@ -1,29 +1,8 @@
-```java
-public class Naitz {
-	class Bio {
-		public String name;
-		public String skill;
-		public String location;
+<h4 align="left">for contact</h4>
 
-		public void setBio() {
-			this.name = "Naitz";
-			this.skill = "Backend Developer";
-			this.location = "Istanbul, TR";
-		}
-	}
+ - Discord: [Emir.#1337](https://discord.com/users/864927126175219722)
 
-	class Skills {
-		public String[] programming_languages;
-		public String[] languages;
-		public String location;
-		public String[] learning;
-
-		public void setSkills() {
-			this.programming_languages = new String[] { "Java", "C#" };
-			this.languages = new String[] { "Turkish", "English" };
-			this.location = "Istanbul, TR";
-			this.learning = new String[] { "Python", "JavaScript" };
-		}
-	}
-}
-```
+<h4 align="left">languages</h4>
+<p align="left">
+<a href="https://docs.microsoft.com/tr-tr/dotnet/csharp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="35" height="35"/> </a>
+<a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="35" height="35"/> </a>
