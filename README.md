@@ -1,6 +1,6 @@
 <h4 align="left">for contact</h4>
 
- - Discord: [Emir.#1337](https://discord.com/users/864927126175219722)
+ - Discord: [Naitz#1857](https://discord.com/users/864927126175219722)
 
 <h4 align="left">languages</h4>
 <p align="left">
